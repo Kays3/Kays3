@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Kays3
-- 👀 I’m interested in Life, Genes, Climate Change, Medicine,  Transposable Elements
-- 🌱 I’m currently working on Genomics of Symbiosis between giant Sea anemones and anemonefishes
-- 💞️ I’m looking to collaborate on Ancient DNA, Polygenic risk score applications, and Genome annotation for non-model species
+- 👀 I’m interested in Life, Genes, Climate Change, Medicine,  Transposable Elements...
+- 🌱 I’m currently working on Genomics of Symbiosis between giant Sea anemones and anemonefishes...
+- 💞️ I’m looking to collaborate on marine ecology, polygenic risk score applications, genomics, chemistry, and medicine...
 - 📫 How to reach me k.dauyey.bio.nu$at$gmail.com
 
 <!---
