@@ -16,7 +16,7 @@
     <path d="M0,98 Q 60,75 120,98 T 240,98 T 360,98 T 480,98 T 600,98 T 720,98 T 840,98 T 960,98 T 1080,98 T 1200,98 L1200,120 L0,120 Z" fill="#E65C00" opacity="0.4"/>
     <!-- Header Text -->
     <text x="50%" y="55%" dominant-baseline="middle" text-anchor="middle" fill="#F4F4F6" font-family="'Courier New', Courier, monospace" font-size="32" font-weight="bold" letter-spacing="2">
-      KAY (@Kays3)
+      KAI (@Kays3)
     </text>
     <text x="50%" y="80%" dominant-baseline="middle" text-anchor="middle" fill="#D4AF37" font-family="'Courier New', Courier, monospace" font-size="14" letter-spacing="3">
       GENOMICS • CLINICAL RESEARCH • AI
