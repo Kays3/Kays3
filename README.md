@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://tabimaniajapan.com/wp-content/uploads/2020/04/Identity-shisa.jpg" alt="Shisa Banner" width="10%" height="250" style="object-fit: cover; border-radius: 8px;">
+  <img src="https://tabimaniajapan.com/wp-content/uploads/2020/04/Identity-shisa.jpg" alt="Shisa Banner" width="30%" height="250" style="object-fit: cover; border-radius: 8px;">
 </div>
 
 # Hi, I'm Kai (@Kays3)
