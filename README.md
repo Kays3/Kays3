@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="https://tabimaniajapan.com/wp-content/uploads/2020/04/Identity-shisa.jpg" alt="Shisa Banner" width="100%" style="border-radius: 8px;">
+  <img src="https://tabimaniajapan.com/wp-content/uploads/2020/04/Identity-shisa.jpg" alt="Shisa Banner" width="100%" height="250" style="object-fit: cover; border-radius: 8px;">
 </div>
 
-# Salam Alleyqum, I'm Kai (@Kays3)
+# Hi, I'm Kai (@Kays3)
 
 I am a physician and medical researcher working at the intersection of clinical medicine, genomics, and computational data analysis. My work focuses on bridging molecular mechanics and data science to advance disease tracking and targeted clinical treatments.
 
