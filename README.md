@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/9f9ef000-b91a-466a-944e-c7337a71b17c" alt="Fujisan by Mao" width="30%" height="450" style="object-fit: cover; border-radius: 8px;">
+  <img src="https://github.com/user-attachments/assets/9f9ef000-b91a-466a-944e-c7337a71b17c" alt="Fujisan by Mao" width="60%" height="450" style="object-fit: cover; border-radius: 8px;">
 </div>
 
 # Hi, I'm Kai (@Kays3)
