@@ -8,7 +8,6 @@ I am a computational biologist and scientific workflow developer working at the 
 
 I am especially interested in making complex scientific analyses easier to test, reproduce, review, and extend. My work combines biological interpretation with explicit workflow interfaces, validation checkpoints, portable environments, contributor-facing documentation, and responsible AI-assisted development.
 
-My background also includes previous research at OIST and direct computational neuroscience experience from neuroimaging work at Lausanne University Hospital and the University of Lausanne.
 
 ---
 
