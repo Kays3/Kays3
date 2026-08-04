@@ -1,40 +1,55 @@
 <div align="center">
-  <img alt="GPTempDownload" src="https://github.com/user-attachments/assets/a1b446a5-aa64-446e-a22f-f1485704aa84" alt="Coral reef snapshot at Aka Island, Keramashoto National Park" width="60%" height="450" style="object-fit: cover; border-radius: 8px;">
+  <img src="https://github.com/user-attachments/assets/a1b446a5-aa64-446e-a22f-f1485704aa84" alt="Coral reef snapshot at Aka Island, Keramashoto National Park" width="60%" height="450" style="object-fit: cover; border-radius: 8px;">
 </div>
 
-# Hi, I'm Kai (@Kays3)
+# Hi, I'm Kaisar (@Kays3)
 
-I am a computational biologist and physician working across **marine genomics, single-cell biology, AI-assisted scientific computing, and reproducible bioinformatics**. I am currently a postdoctoral researcher at Hokkaido University, where I develop data-intensive workflows for transcriptomics, spatial analysis, machine learning, and biological foundation models.
+I am a computational biologist and scientific workflow developer working at the intersection of **AI for biology, single-cell genomics, computational neuroscience, and reproducible research software**. I am currently a postdoctoral researcher at Hokkaido University, where I build, validate, document, and troubleshoot Python-based workflows for transcriptomics, spatial analysis, machine learning, and biological foundation models.
 
-My marine research has examined how environmental change affects coral-reef organisms, including transposable-element responses to ocean acidification in fish brain transcriptomes, host-symbiont biology in anemones and *Symbiodinium*, coral-reef field sampling, and genomic analysis at OIST.
+I am especially interested in making complex scientific analyses easier to test, reproduce, review, and extend. My work combines biological interpretation with explicit workflow interfaces, validation checkpoints, portable environments, contributor-facing documentation, and responsible AI-assisted development.
+
+My background also includes previous research at OIST and direct computational neuroscience experience from neuroimaging work at Lausanne University Hospital and the University of Lausanne.
 
 ---
 
 ## Current Focus & Projects
 
-* **Marine environmental genomics:** Studying transposable elements and gene-regulatory responses to ocean acidification in coral-reef fish.
-* **Marine symbiosis and multi-omics:** Integrating genome, transcriptome, and proteome evidence in anemone-algal symbiotic systems.
-* **AI for biology:** Applying Geneformer and other machine-learning approaches to single-cell transcriptomics and biological interpretation.
-* **Reproducible scientific workflows:** Building documented Python/R pipelines with explicit inputs, validation checks, portable environments, monitoring, and recovery guidance.
-* **Microbial and clinical genomics:** Investigating *Helicobacter pylori* population genetics, antimicrobial resistance, and host-pathogen biology.
+* **Biological foundation models:** Applying Geneformer to donor-aware single-cell classification, held-out evaluation, in silico perturbation, and biological interpretation.
+* **Scientific workflow curation:** Organizing modular analyses with explicit inputs and outputs, configuration, validation checkpoints, limitations, and handoff documentation.
+* **AI-assisted software development:** Using Codex and related tools for drafting, debugging, refactoring, and documentation with human review and scientific verification.
+* **Computational neuroscience:** Contributing to multivariate neuroimaging research on language impairment after acute stroke using quantitative CT, voxel-based analysis, lesion mapping, and principal component analysis.
+* **Genomics and multi-omics:** Developing reproducible analyses for single-cell, spatial, microbial, clinical, and environmental datasets.
 
 ---
 
-## Featured Work
-
-### [Transposable Elements and Ocean Acidification](https://github.com/Kays3/TE_Ocean_Acidification)
-
-A reproducible workflow for studying transposable-element activity in coral-reef fish brain transcriptomes, using RepeatModeler2/RepeatMasker, STAR, TEcount, and DESeq2. The repository includes setup, input contracts, monitoring, recovery, and workflow-consolidation documentation.
+## Featured AI and Workflow Work
 
 ### [Geneformer Lung T-Cell Workflow](https://github.com/Kays3/geneformer-lung-tcell)
 
-A curated single-cell workflow spanning donor-aware data preparation, Geneformer tokenization and fine-tuning, held-out evaluation, in silico perturbation, and spatial validation. The project documents validation evidence, limitations, migration procedures, and responsible AI-assisted development.
+A curated single-cell foundation-model workflow spanning donor-disjoint data preparation, Geneformer tokenization and fine-tuning, held-out evaluation, in silico perturbation, and spatial validation.
+
+The repository documents workflow contracts, validation evidence, limitations, portable environments, migration procedures, troubleshooting, contributor guidance, and responsible AI-assisted development.
+
+### [Transposable Elements and Ocean Acidification](https://github.com/Kays3/TE_Ocean_Acidification)
+
+A reproducible multi-stage workflow using RepeatModeler2/RepeatMasker, STAR, TEcount, and DESeq2. The repository demonstrates explicit setup and input contracts, long-running process monitoring, recovery procedures, workflow consolidation, and separation of historical from canonical analyses.
+
+---
+
+## How I Build Scientific Workflows
+
+1. Define inputs, outputs, assumptions, and success criteria.
+2. Separate workflows into inspectable, restartable stages.
+3. Add schema, row-count, leakage, biological-control, and runtime checks where appropriate.
+4. Lock dependencies and record source revisions for reproducible execution.
+5. Document setup, limitations, troubleshooting, recovery, and contributor expectations.
+6. Use AI tools to accelerate development while retaining human review and verification.
 
 ---
 
 ## Tools and Methods
 
-`Python` · `R` · `Bash` · `Linux` · `Jupyter` · `Git/GitHub` · `Scanpy` · `pandas` · `scikit-learn` · `Geneformer` · `DESeq2` · `STAR` · `RepeatModeler2` · `RepeatMasker` · `TEcount` · single-cell RNA-seq · multi-omics · scientific workflow curation
+`Python` · `R` · `Bash` · `Linux` · `Jupyter` · `Git/GitHub` · `uv` · `Scanpy` · `pandas` · `NumPy` · `scikit-learn` · `Geneformer` · transformer models · single-cell RNA-seq · spatial transcriptomics · computational neuroimaging · workflow validation · technical documentation · AI-assisted coding
 
 ---
 
@@ -42,10 +57,10 @@ A curated single-cell workflow spanning donor-aware data preparation, Geneformer
 
 Open to collaborating on:
 
-1. Marine environmental genomics and biological responses to climate stressors.
-2. AI and foundation models for single-cell and spatial biology.
-3. Host-microbe and host-symbiont multi-omics.
-4. Reproducible bioinformatics workflows, validation, and research-software documentation.
+1. AI and foundation models for biological and neuroscience data.
+2. Reproducible scientific workflows and modular research software.
+3. Single-cell and spatial transcriptomics.
+4. Workflow validation, interoperability, documentation, and AI-agent instructions.
 
 ---
 
