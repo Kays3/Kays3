@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="archive/pre-2026/images/coral-aka-kame.png" alt="Coral reef snapshot at Aka Island, Keramashoto National Park" width="60%" height="450" style="object-fit: cover; border-radius: 8px;">>
+  <img alt="GPTempDownload" src="https://github.com/user-attachments/assets/a1b446a5-aa64-446e-a22f-f1485704aa84" alt="Coral reef snapshot at Aka Island, Keramashoto National Park" width="60%" height="450" style="object-fit: cover; border-radius: 8px;">>
 </div>
 
 # Hi, I'm Kai (@Kays3)
