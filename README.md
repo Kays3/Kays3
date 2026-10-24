@@ -2,7 +2,7 @@
   <img src="https://github.com/user-attachments/assets/a1b446a5-aa64-446e-a22f-f1485704aa84" alt="Coral reef snapshot at Aka Island, Keramashoto National Park" width="60%" height="450" style="object-fit: cover; border-radius: 8px;">
 </div>
 
-# Hi, I'm Kaisar (@Kays3)
+# Hi, I'm Kai-san (@Kays3)
 
 I am a computational biologist and scientific workflow developer working at the intersection of **AI for biology, single-cell genomics, computational neuroscience, and reproducible research software**. I am currently a postdoctoral researcher at Hokkaido University, where I build, validate, document, and troubleshoot Python-based workflows for transcriptomics, spatial analysis, machine learning, and biological foundation models.
 
